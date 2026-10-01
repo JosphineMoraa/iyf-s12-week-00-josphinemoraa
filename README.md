@@ -1,4 +1,4 @@
-# Hi, I'm Jospphine Moraa 👋
+# Hi, I'm Josphine Moraa 👋
 
 Welcome to my GitHub profile! I'm a new programming student who is excited to learn, build projects, and grow a little every day.
 
