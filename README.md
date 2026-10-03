@@ -30,5 +30,9 @@ I will add my projects here as I create them. Each project is a chance to learn 
 > Every expert was once a beginner. I am learning one step at a time.
 
 Thanks for visiting my profile! 😊
+## Week 00
 
+- [My website](https://josphinemoraa.github.io)
+- [Markdown practice](https://github.com/JosphineMoraa/JosphineMoraa/blob/main/markdown-practice.md)
+- [My Week 00 repository](https://github.com/JosphineMoraa/iyf-s12-week-00-josphinemoraa)
 
